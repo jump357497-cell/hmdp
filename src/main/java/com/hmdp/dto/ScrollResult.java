@@ -8,5 +8,5 @@ import java.util.List;
 public class ScrollResult {
     private List<?> list;
     private Long minTime;
-    private Integer offset;
+    private Integer offset;//偏移量
 }
